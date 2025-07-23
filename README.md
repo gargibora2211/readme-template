@@ -5,8 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
-
+A concise, one to two-paragraph statement describing your project.
 ![](header.png)
 
 ## Installation
